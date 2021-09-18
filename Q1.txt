@@ -1,0 +1,56 @@
+void main() {
+//   var q1 = ("Q1) What are the various types of operators in dart?");
+//   print(q1);
+  
+//   int num1 = 20;
+//   int num2 = 40;
+//   int output = num1 + num2;
+// //          20 + 40
+   
+//   print("Nmber 1 is: ${num1}");
+//   print("Output is : ${output}");
+  
+  int num3 = 30;
+  int num4 = 10;
+  int output = num3 - num4;
+//            30-10
+  
+  print("Number 3 is :${num3}");
+  print("Output is : ${output}");
+  
+  
+    int num4= 30;
+  int num5 = 32;
+  int output = num4 * num5;
+//            30x32
+  
+  print("Number 4 is :${num4}");
+  print("Output is : ${output}");
+  
+    int num6 = 8;  
+    int num7 = 13;
+    double output = num6 / num7;    
+  
+//            7 / 12
+  
+  print("Number 6 is :${num6}");
+  print("Output is : ${output}");
+  
+      int num7 = 32;  
+    int num8 = 4;
+    int output = num7 ~/ num7;    
+  
+//            7 / 12
+  
+  print("Number 7 is :${num7}");
+  print("Output is : ${output}");
+  
+  
+  
+  
+  
+  
+  
+  
+
+}

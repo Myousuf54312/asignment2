@@ -1,0 +1,8 @@
+void main() {
+  var ticket = 600;
+  var totalmembers = 5;
+  var totalprice = ticket*totalmembers;
+  print ("Each ticker price:${ticket} \nNumber of members: ${totalmembers}");
+  print ("Total tickets price:${totalprice}");
+ 
+}
